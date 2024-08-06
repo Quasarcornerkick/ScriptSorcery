@@ -1,0 +1,2 @@
+# ScriptSorcery
+Intro into JS
